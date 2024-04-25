@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vedat</h1>
-<h3 align="center">A passionate Software Engineering student from Cyprus</h3>
+<h3>A passionate Software Engineering student from Cyprus</h3>
 
 
 
 - 🔭 I’m currently studying at **SDU Sonderborg**
 
 ### Connect with me:
-[![website](./img/globe-light.svg#gh-light-mode-only)](https://your-website.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg#gh-dark-mode-only)](https://your-website.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg#gh-light-mode-only)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg#gh-dark-mode-only)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/vedat-esenda%C4%9F-92677626b/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/vedat-esenda%C4%9F-92677626b/#gh-dark-mode-only)
 
 ### Languages and Tools:
 <p>
