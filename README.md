@@ -21,12 +21,12 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedat-esendağ&show_icons=true&locale=en" alt="Vedat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedat-esendag&show_icons=true&locale=en" alt="Vedat's GitHub Stats" />
 </p>
 
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vedatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="vedatgithub" />
+  <img src="https://komarev.com/ghpvc/?username=vedatgithub&color=0e1116&style=flat-square&label=PROFILE+VIEWS" alt="vedatgithub profile views" />
 </p>
 
 
