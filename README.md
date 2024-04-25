@@ -7,24 +7,28 @@
 
 ### Connect with me:
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/vedat-esenda%C4%9F-92677626b/#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/vedat-esenda%C4%9F-92677626b/#gh-dark-mode-only)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/vedat-esenda%C4%9F-92677626b/)
+[<img src="https://www.gstatic.com/images/icons/material/system/2x/email_black_24dp.png" width="40" height="40">](mailto:vedatesendag2005@gmail.com)
+
+
 
 ### Languages and Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <!-- Add more icons as per your skills -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 </p>
 
-### Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedat-esendağ&show_icons=true&locale=en" alt="Vedat's GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="Vedat" /></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vedatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="vedatgithub" />
 </p>
 
-<!--END_SECTION:activity-->
+
+
 
