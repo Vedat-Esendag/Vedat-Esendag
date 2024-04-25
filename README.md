@@ -25,9 +25,7 @@
 </p>
 
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vedatgithub&color=0e1116&style=flat-square&label=PROFILE+VIEWS" alt="vedatgithub profile views" />
-</p>
+
 
 
 
